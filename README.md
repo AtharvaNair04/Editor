@@ -11,3 +11,4 @@ then in terminal type npm start
 this will open up a page in which we can edit our photos
 After editing save it , then a download image will show , which can download the image in your computer
 
+I have uploaded the demo video.
